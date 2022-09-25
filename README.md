@@ -1,2 +1,7 @@
-# twitter-clone
- React & Tailwind.css ile yapılmıştır.
+# Twitter-Clone
+
+### React & Tailwind.css kullanılarak yapılmıştır.
+
+
+
+
