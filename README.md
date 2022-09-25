@@ -2,6 +2,6 @@
 
 ### React & Tailwind.css kullanılarak yapılmıştır.
 
-youtube.com/codingwithdidem - Twitter Klonu 
+youtube.com/codingwithdidem - Twitter Klonu serisinden ilerlenmiştir. 
 
 
